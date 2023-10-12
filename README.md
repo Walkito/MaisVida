@@ -3,4 +3,4 @@ Este projeto é um projeto de treinamento/portfólio. O Projeto é feito em Java
 
 Caso deseje executar em sua IDE, lembre-se de configurar o application.properties.
 
-O front-end ainda não foi implementado, mas já está em desenvolvimento.
+O front-end ainda não foi implementado pois nesta época estava estudando apenas o desenvolvimento Back End. Existe outro projeto ao qual já integrei o Front-End com o Back-End.
